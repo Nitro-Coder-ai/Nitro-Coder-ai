@@ -1,26 +1,34 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/n8n-io/self-hosted-ai-starter-kit/main/assets/n8n-demo.gif" width="100%" alt="n8n Automation Demo" style="border-radius:12px"/>
+<img src="https://raw.githubusercontent.com/n8n-io/self-hosted-ai-starter-kit/main/assets/n8n-demo.gif" width="100%" alt="n8n Automation Demo"/>
 
 </div>
-
----
 
 <div align="center">
 
 ```
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║        ⚡ AI AUTOMATION BUILDER & ARCHITECT ⚡               ║
-║           Building workflows that work while you sleep       ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
+██╗    ██╗ ██████╗ ██████╗ ██╗  ██╗███████╗    ██╗    ██╗██╗  ██╗██╗██╗     ███████╗
+██║    ██║██╔═══██╗██╔══██╗██║ ██╔╝██╔════╝    ██║    ██║██║  ██║██║██║     ██╔════╝
+██║ █╗ ██║██║   ██║██████╔╝█████╔╝ ███████╗    ██║ █╗ ██║███████║██║██║     █████╗  
+██║███╗██║██║   ██║██╔══██╗██╔═██╗ ╚════██║    ██║███╗██║██╔══██║██║██║     ██╔══╝  
+╚███╔███╔╝╚██████╔╝██║  ██║██║  ██╗███████║    ╚███╔███╔╝██║  ██║██║███████╗███████╗
+ ╚══╝╚══╝  ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝    ╚══╝╚══╝ ╚═╝  ╚═╝╚═╝╚══════╝╚══════╝
 ```
 
-[![Automation](https://img.shields.io/badge/⚡_AI_Automation-Builder-FF6D00?style=for-the-badge&logoColor=white)](https://github.com)
-[![Architecture](https://img.shields.io/badge/🏗_Workflow-Architect-A855F7?style=for-the-badge&logoColor=white)](https://github.com)
-[![Web Dev](https://img.shields.io/badge/🌐_Web-Developer-10B981?style=for-the-badge&logoColor=white)](https://github.com)
-[![Status](https://img.shields.io/badge/🟢_Workflows-Running_24/7-00D4FF?style=for-the-badge&logoColor=white)](https://github.com)
+### ⚡ AI Automation Builder · Workflow Architect · Full-Stack Developer ⚡
+#### *Building systems that work hard — while you sleep*
+
+<br/>
+
+[![Automation](https://img.shields.io/badge/⚡%20AI%20Automation-Builder-FF6D00?style=for-the-badge&logoColor=white)](https://github.com/Nitro-Coder-ai)
+[![Architecture](https://img.shields.io/badge/🏗%20Workflow-Architect-A855F7?style=for-the-badge&logoColor=white)](https://github.com/Nitro-Coder-ai)
+[![Web Dev](https://img.shields.io/badge/🌐%20Web-Developer-10B981?style=for-the-badge&logoColor=white)](https://github.com/Nitro-Coder-ai)
+[![YouTube](https://img.shields.io/badge/▶%20YouTube-NitroAI%20Automation-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@nitroaiautomation)
+
+<br/>
+
+![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=Nitro-Coder-ai&color=A855F7&style=flat-square)
+[![GitHub followers](https://img.shields.io/github/followers/Nitro-Coder-ai?style=flat-square&color=00D4FF&label=Followers)](https://github.com/Nitro-Coder-ai)
 
 </div>
 
@@ -28,16 +36,39 @@
 
 ## 🤖 Who Am I?
 
-> I design and architect **complex AI-powered workflows** that eliminate manual work —
-> from intelligent data pipelines to fully autonomous multi-agent systems.
-> Once deployed, they run **24/7 while you sleep.**
-
 ```yaml
-role        : AI Automation Builder & Architect + Full-Stack Web Developer
-speciality  : Complex n8n workflows · AI Agents · Laravel + Vue.js Apps
+name        : Nitro Coder AI
+role        : AI Automation Builder & Architect · Full-Stack Web Developer
+specialty   : Complex n8n workflows · AI Agents · Laravel + Vue.js Apps
 philosophy  : Automate everything. Ship fast. Sleep well.
+youtube     : https://www.youtube.com/@nitroaiautomation
+email       : nitroaiautomation@gmail.com
 status      : 🟢 Open to projects & collaborations
 ```
+
+> I design and architect **complex AI-powered workflows** that eliminate manual work —
+> from intelligent data pipelines to fully autonomous multi-agent systems.
+> Once deployed, they run **24/7 — while you sleep.**
+
+---
+
+## 📺 Watch Me Build — YouTube Channel
+
+<div align="center">
+
+[![YouTube](https://img.shields.io/badge/▶%20SUBSCRIBE%20ON%20YOUTUBE-NitroAI%20Automation%20Tutorials-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=1a1a2e)](https://www.youtube.com/@nitroaiautomation)
+
+| 🎬 What You'll Find on the Channel |
+|:---|
+| ⚡ **n8n workflow builds** — step-by-step from scratch |
+| 🤖 **AI agent tutorials** — GPT-4, Claude, Mistral in action |
+| 🔗 **API integrations** — connecting apps the smart way |
+| 💡 **Business automation ideas** — real use cases, real results |
+| 🌐 **Laravel + Vue.js** — full-stack dev with automation baked in |
+
+**→ [Subscribe now](https://www.youtube.com/@nitroaiautomation) and automate your world. It's free.**
+
+</div>
 
 ---
 
@@ -104,27 +135,32 @@ Designing **robust REST and Webhook APIs** that serve as the backbone for comple
 
 <div align="center">
 
-### ⚙️ Automation & AI
+**⚙️ Automation & AI**
+
 ![n8n](https://img.shields.io/badge/n8n-FF6D00?style=for-the-badge&logo=n8n&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![Anthropic](https://img.shields.io/badge/Claude_API-D4A574?style=for-the-badge&logoColor=black)
+![Claude API](https://img.shields.io/badge/Claude_API-D4A574?style=for-the-badge&logoColor=black)
 
-### 🌐 Frontend
+**🌐 Frontend**
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Vue.js](https://img.shields.io/badge/Vue.js-42B883?style=for-the-badge&logo=vue.js&logoColor=white)
 
-### ⚙️ Backend
+**⚙️ Backend**
+
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00618A?style=for-the-badge&logo=mysql&logoColor=white)
 
-### 🔧 Tools & Infrastructure
+**🔧 Tools & Infrastructure**
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 </div>
 
@@ -142,18 +178,20 @@ Designing **robust REST and Webhook APIs** that serve as the backbone for comple
 
 ---
 
-## 🔄 A Typical Workflow I Build
+## 🔄 How My Workflows Are Structured
 
 ```
-  [ Trigger ]          [ Process ]           [ AI Layer ]         [ Output ]
-      │                    │                     │                    │
-  🔔 Webhook  ──►  📊 Transform Data  ──►  🤖 AI Decision  ──►  ✅ Action
-  ⏰ Schedule ──►  🔍 Filter & Route  ──►  📝 Generate     ──►  📧 Email
-  📝 Form     ──►  🔗 API Call        ──►  🏷️ Classify     ──►  🗄️ DB Save
-  📧 Email    ──►  🗄️ DB Query        ──►  🔀 Branch Logic ──►  📊 Report
-      │                    │                     │                    │
-  ────┴────────────────────┴─────────────────────┴────────────────────┘
-                    Runs autonomously · No human needed
+  ┌──────────────┐     ┌──────────────┐     ┌──────────────┐     ┌──────────────┐
+  │   TRIGGER    │────▶│   PROCESS    │────▶│  AI  LAYER   │────▶│    OUTPUT    │
+  └──────────────┘     └──────────────┘     └──────────────┘     └──────────────┘
+        │                     │                     │                     │
+   🔔 Webhook            📊 Transform          🤖 Decide             ✅ Execute
+   ⏰ Schedule           🔍 Filter             📝 Generate           📧 Send Email
+   📝 Form Sub.          🔗 API Call           🏷️ Classify           🗄️ Save to DB
+   📧 Email In           🗄️ DB Query           🔀 Branch             📊 Report
+        │                     │                     │                     │
+  ──────┴─────────────────────┴─────────────────────┴─────────────────────┘
+                    ⚡ Fully autonomous · Zero human intervention
 ```
 
 ---
@@ -161,17 +199,18 @@ Designing **robust REST and Webhook APIs** that serve as the backbone for comple
 ## 💡 Services I Offer
 
 ```
-  ┌─────────────────────────────────────────────────────────┐
-  │                                                         │
-  │  🔧 Custom n8n Workflow Design & Development            │
-  │  🤖 AI Agent Architecture (multi-step, multi-model)     │
-  │  🌐 Laravel + Vue.js Full-Stack Web Applications        │
-  │  🔌 API Design, Integration & Documentation             │
-  │  📊 Data Pipeline Automation & ETL Workflows            │
-  │  🚀 Self-hosted n8n Setup & Deployment                  │
-  │  🛡️ Workflow Audit, Optimization & Maintenance          │
-  │                                                         │
-  └─────────────────────────────────────────────────────────┘
+  ┌────────────────────────────────────────────────────────────┐
+  │                                                            │
+  │   🔧  Custom n8n Workflow Design & Development             │
+  │   🤖  AI Agent Architecture (multi-step, multi-model)      │
+  │   🌐  Laravel + Vue.js Full-Stack Web Applications         │
+  │   🔌  API Design, Integration & Documentation              │
+  │   📊  Data Pipeline Automation & ETL Workflows             │
+  │   🚀  Self-hosted n8n Setup & Deployment                   │
+  │   🎬  YouTube Tutorials — Watch & Learn for Free           │
+  │   🛡️  Workflow Audit, Optimization & Maintenance           │
+  │                                                            │
+  └────────────────────────────────────────────────────────────┘
 ```
 
 ---
@@ -196,13 +235,18 @@ Designing **robust REST and Webhook APIs** that serve as the backbone for comple
 
 > **"The best automation is one you forget exists — because it just works."**
 
-[![Email](https://img.shields.io/badge/📧_Email_Me-EA4335?style=for-the-badge&logoColor=white)](mailto:nitroaiautomation@gmail.com)
+<br/>
 
----
+[![YouTube](https://img.shields.io/badge/▶%20YouTube-Watch%20Free%20Tutorials-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@nitroaiautomation)
+[![Email](https://img.shields.io/badge/📧%20Email-nitroaiautomation@gmail.com-EA4335?style=for-the-badge&logoColor=white)](mailto:nitroaiautomation@gmail.com)
+
+<br/>
 
 ```
-  ⚡ Automations running right now · 🌍 Available globally · 🕐 Response within 24h
+  ⚡ Automations running right now  ·  🌍 Available globally  ·  🕐 Response within 24h
 ```
+
+<br/>
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Nitro-Coder-ai&color=A855F7)
 
@@ -211,5 +255,5 @@ Designing **robust REST and Webhook APIs** that serve as the backbone for comple
 ---
 
 <div align="center">
-<sub>Built with ❤️ · Automated with ⚡ · Powered by Nitro-Coder-ai🤖</sub>
+<sub>Built with ❤️ · Automated with ⚡ · Powered by <a href="https://github.com/Nitro-Coder-ai">Nitro-Coder-ai 🤖</a> · <a href="https://www.youtube.com/@nitroaiautomation">▶ Watch on YouTube</a></sub>
 </div>
